@@ -72,7 +72,7 @@ int main(int argc, char* argv[]) {
 }
 
 /*
-    Output:
+    Output: Time vs. Number of Threads
      1. 80000 and 1:
          Computed PI = 3.14105
          Elapsed time: 0.001681 seconds
@@ -87,7 +87,7 @@ int main(int argc, char* argv[]) {
          Elapsed time: 0.000644 seconds
  */
 /*
- Output:
+ Output: Time vs. Number of Sample Points
   1. 20000 and 4:
       Computed PI = 3.124
       Elapsed time: 0.000188 seconds
